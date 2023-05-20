@@ -11,7 +11,7 @@ catalog = {
     "Product A": 20,
     "Product B": 40,
     "Product C": 50
-}
+    }
 
 ```
 ## Constants
@@ -78,32 +78,32 @@ Here's an example usage of the program:
 
 # Example input and output for demonstration purposes only
 
-```Enter the quantity of Product A: 2
-Is Product A wrapped as a gift? (yes/no): no
-Enter the quantity of Product B: 3
-Is Product B wrapped as a gift? (yes/no): yes
-Enter the quantity of Product C: 4
-Is Product C wrapped as a gift? (yes/no): no
-
+```
+Enter the quantity of Product A: 11
+Is Product A wrapped as a gift? (yes/no): yes
+Enter the quantity of Product B: 12
+Is Product B wrapped as a gift? (yes/no): no
+Enter the quantity of Product C: 9
+Is Product C wrapped as a gift? (yes/no): yes
 Product Details:
-Product A: Quantity: 2, Total: $40
-Product B: Quantity: 3, Total: $120
-Product C: Quantity: 4, Total: $200
+Product A: Quantity: 11, Total: $220
+Product B: Quantity: 12, Total: $480
+Product C: Quantity: 9, Total: $450
 
 Summary:
-Subtotal: $360
+Subtotal: $1035.0
 
 Available Discounts:
-  - bulk_10_discount: Amount: $36
-  - bulk_5_discount: Amount: $10.0
+  -  flat_10_discount: Amount: $10
+  -  bulk_10_discount: Amount: $115.0
+  -  bulk_5_discount: Amount: $11.0
 
 Discount Applied:
- - bulk_10_discount: Amount: $36
+ - bulk_10_discount: Amount: $115.0
 Maximum discount applied!
-
 Shipping fee: $15
-Gift wrap fee: $0
-Total: $339
+Gift wrap fee: $20
+Total: $1055.0
 
 ```
 
