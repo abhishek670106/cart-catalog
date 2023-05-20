@@ -75,6 +75,3 @@ Total: $1055.0
 
 This example demonstrates a shopping cart with quantities and gift wrapping information for three products. The program calculates the subtotal, applies the most beneficial discounts, and calculates the total cost, including shipping and gift wrap fees.
 
-Please note that the example input and output above are for demonstration purposes only and may not reflect the actual program behavior or expected outputs for different inputs.
-
-Feel free to modify the program or adapt it to suit your specific requirements.
