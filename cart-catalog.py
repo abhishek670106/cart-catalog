@@ -102,4 +102,4 @@ if selected_discount:
 
 print(f"Shipping fee: ${PACKAGE_SHIPPING_FEE * (total_quantity // PACKAGE_CAPACITY)}")
 print(f"Gift wrap fee: ${gift_wrap_fee}")
-print(f"Total: ${total}")
+print(f"Total: ${total-discount_amount}")
