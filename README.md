@@ -69,7 +69,7 @@ Discount Applied:
 Maximum discount applied!
 Shipping fee: $15
 Gift wrap fee: $20
-Total: $1055.0
+Total: $940.0
 
 ```
 
